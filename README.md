@@ -1,5 +1,5 @@
 # timesheet-automation
-- This is python code that automates the inputting of your timesheet.
+- This is python code that automates the inputting of your timesheet. Requires Python to run.
 - It is using selenuim to automate using a chrome web driver
 - You need to dowload a webdriver, I used chrome and coded with chrome as the web driver. Make sure to download the version that corresponds with your already downloaded chrome
   -  Mac driver install command:
