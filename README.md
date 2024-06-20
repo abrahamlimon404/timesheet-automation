@@ -5,4 +5,3 @@
   -  Mac driver install command:
     - brew install chromedriver 24.0.6367.93
 - This was developed to work for cal state la student. Using the mycalstatela portal and HRM timesheet input program for student employees
-- 
